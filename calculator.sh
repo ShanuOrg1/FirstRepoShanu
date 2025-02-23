@@ -20,3 +20,6 @@ x= 4/2
 
 y=10/5
 echo y
+
+echo "hi hello"
+
