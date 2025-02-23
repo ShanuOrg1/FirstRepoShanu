@@ -1,3 +1,4 @@
+
 #!/bin/bash
 #addition
 
@@ -20,3 +21,7 @@ x= 4/2
 
 y=10/5
 echo y
+
+#adding multiplication
+z = 10*3
+echo z
