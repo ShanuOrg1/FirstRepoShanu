@@ -30,4 +30,4 @@ echo y
 #adding multiplication
 z = 10*3
 echo z
->>>>>>> master
+
