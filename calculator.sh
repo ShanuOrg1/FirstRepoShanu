@@ -21,6 +21,13 @@ x= 4/2
 
 y=10/5
 echo y
+
 # example for rebaseMerge. adding lines fr rebase 
-# test 1
+# test
 # test 2
+=======
+
+#adding multiplication
+z = 10*3
+echo z
+>>>>>>> master
