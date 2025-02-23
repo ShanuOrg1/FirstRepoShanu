@@ -1,3 +1,4 @@
+
 #!/bin/bash
 #addition
 
@@ -20,3 +21,6 @@ x= 4/2
 
 y=10/5
 echo y
+# example for rebaseMerge. adding lines fr rebase 
+# test 1
+# test 2
